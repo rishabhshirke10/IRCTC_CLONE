@@ -226,11 +226,4 @@ CREATE TABLE bookings (
   - Check trains between two stations
   - Book a seat and fetch booking details
 
----
 
-## **Contributing**
-Feel free to open issues or submit pull requests for improvements or bug fixes.
-
----
-
-Let me know if you need further assistance!
